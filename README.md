@@ -33,7 +33,7 @@
 
 | | Project | My role | Highlights |
 |---|---|---|---|
-| 🏙️ | **[Kent360](https://github.com/HBaris/case-studies/tree/main/kent360)** — urban-renewal marketplace | **Sole developer** — built and launched v1, then handed it over to the in-house team | React Native app on the App Store · Three.js parametric 3D buildings on real parcels · Firebase security hardening · notification and analytics pipelines |
+| 🏙️ | **[Kent360](https://github.com/HBaris/case-studies/tree/main/kent360)** — urban-renewal marketplace · [Google Play](https://play.google.com/store/apps/details?id=com.fetsangrup.kent360) | **Sole developer** — built and launched v1, then handed it over to the in-house team | React Native app (App Store launch, now on Google Play) · Three.js parametric 3D buildings on real parcels · Firebase security hardening · notification and analytics pipelines |
 | 🧾 | **[FETSAN ERP](https://github.com/HBaris/case-studies/tree/main/fetsan-erp)** — company ERP | Developer in a parallel team | Root-caused a UTC filter + second-writer bug (verified over 44 days × 6 tabs) · backward-compatible data-model rebuild |
 | 🛒 | **[Arma LED](https://github.com/HBaris/case-studies/tree/main/arma-led)** — CRM/ERP & e-commerce | Software & e-commerce specialist | Spring Boot modules · Amazon / Trendyol / Hepsiburada / n11 sync · C# NFC app · ~8× online sales |
 
