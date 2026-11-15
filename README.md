@@ -50,7 +50,6 @@
 
 - **[Octopus Prime](https://github.com/HBaris/OCTOPUS-PRIME)** — crypto visualization and agent platform: CCXT multi-exchange, WebSocket events, ONNX sentiment model, 49 tests.
 - **[BeraberGidelim](https://github.com/HBaris/BeraberGidelim)** — find someone to go to an event with: Next.js web + Expo mobile.
-- **[Routee](https://github.com/HBaris/Routee)** · **[Doktora Göz At](https://github.com/HBaris/Doktora-Goz-At-ReactJS)** · **[Rishang Content Generator](https://github.com/HBaris/rishang-app)** — earlier React and AI experiments.
 
 ---
 
