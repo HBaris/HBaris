@@ -42,8 +42,8 @@
 | | Game | Stack |
 |---|---|---|
 | ⚔️ | **[Ragdoll Kılıç 3D](https://github.com/HBaris/ragdollBladeGame)** — physics ragdoll sword game, boss every 5th level, runs on phones · [**▶ Play in browser**](https://hbaris.github.io/ragdollBladeGame/) | JavaScript · 3D physics · Capacitor (Android / iOS) · GitHub Actions |
-| 🏗️ | **[Şantiye Tycoon](https://github.com/HBaris/SantiyeTycoon)** — construction & logistics tycoon | Roblox · Luau · Rojo |
 | 🧟 | **[Derin Sular](https://github.com/HBaris/derin-sular-code)** — co-op survival, data-driven waves, StateTree AI | Unreal Engine 5 · C++ |
+| 🏗️ | **[Şantiye Tycoon](https://github.com/HBaris/SantiyeTycoon)** — construction & logistics tycoon | Roblox · Luau · Rojo |
 | 🛸 | **[Drone Swarm Simulator](https://github.com/HBaris/drone-simulation)** — choreography for 800-drone light shows | Roblox · Luau |
 
 ### 🧪 Side projects
